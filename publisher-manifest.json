@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "183fd1f4f8af04cd38bb0207",
+  "owner": "akmahkpc",
+  "repo": "page-854ab0daca264727013b47fd",
+  "title": "小火箭(SmallRocket)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "854ab0daca264727013b47fd",
+      "a": "小火箭(SmallRocket)",
+      "b": "稳定全球clash加速器",
+      "entity": "小火箭(SmallRocket)",
+      "brand": "小火箭(SmallRocket)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3a598652d7b4776a6519a897a24cdcaf9ffbdeaa2a371e265f5f53ed37ef229f",
+      "content": {
+        "primary_entity": "小火箭(SmallRocket)",
+        "keyword1": "小火箭(SmallRocket)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选合适客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端说明导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始订阅小火箭",
+          "AI_DESCRIPTION": "，小火箭(SmallRocket)按流量与设备数划分套餐，基础版、旗舰版和团队版分别覆盖个人、多设备与团队场景。价格从 ¥15/月 到 ¥85/月，年付更省，旗舰版额外提供 IPLC 专线与优先工单支持。",
+          "AI_FEATURES_INTRO": "围绕套餐对比、设备数量与订阅周期三点展开。",
+          "AI_FEATURES_TITLE": "选择前看清三件事",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台设备，团队版 1000GB/20 台设备，按人数和流量挑。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线，适合游戏与低延迟场景。",
+          "AI_FEATURE_TEXT_3": "年付约为月付十个月价格，长期使用可选年付。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端订阅配置。",
+          "AI_GUIDE_TITLE": "配置订阅三步走",
+          "AI_HERO_INTRO": "小火箭(SmallRocket)提供多档订阅套餐，覆盖个人、多设备与团队使用。基础版、旗舰版和团队版在流量、设备数量和节点类型上有区别，可按日常上网、流媒体和游戏加速需求挑选，再配合设备客户端完成订阅导入。",
+          "AI_HERO_SUBTITLE": "按流量设备数挑套餐",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线，适合游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点类型上递进，可对照年付价格选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照基础版、旗舰版与团队版的流量和设备上限，确认日常使用规模。",
+          "AI_STEP_TEXT_2": "查看所选套餐对客户端类型和设备数量的适配要求，准备对应设备。",
+          "AI_STEP_TEXT_3": "依照所用客户端自带文档导入订阅链接，完成节点配置后连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "小火箭套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。可根据日常需要连接网络的设备数量选择合适的档位。",
+          "AI_FAQ_ANSWER_2": "按月付费灵活，按年付费更划算。例如基础版按月¥15，按年¥150；旗舰版按月¥35，按年¥350；团队版按月¥85，按年¥850。",
+          "AI_FAQ_ANSWER_3": "主流操作系统通常都有对应的客户端可用，具体适配情况请参考客户端文档。安装后按文档导入订阅地址即可开始使用。",
+          "AI_FAQ_ANSWER_4": "基础版提供普通线路节点池，旗舰版增加IPLC专线游戏加速优化和全节点原生流媒体解锁，团队版提供VIP专属高带宽节点。可根据使用场景选择。",
+          "AI_FAQ_ANSWER_5": "订阅配置通常需要导入订阅链接或手动填写服务器信息，不同客户端操作方式略有差异，建议参照对应客户端文档逐步完成。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "按月付费和按年付费有什么区别？",
+          "AI_FAQ_QUESTION_3": "小火箭(SmallRocket)支持哪些操作系统？",
+          "AI_FAQ_QUESTION_4": "不同套餐的线路和节点有什么区别？",
+          "AI_FAQ_QUESTION_5": "如何配置订阅并导入客户端？",
+          "AI_FAQ_TITLE": "套餐与订阅常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tvbmuat.cn",
+    "host": "tvbmuat.cn"
+  },
+  "file_hashes": {
+    "index.html": "2ff118a2281cd05c7047eb2ad2d518b1d542ed7a7e2f615076eb6150da4619ac",
+    "sitemap.xml": "50824e0b91922bd34e3302641e9a69e3938934abcea93db9ef7980a78aecc3a0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5111b62222d910751e1e79bba7ea64894d2b552785a802b6d8bcd4056f894d29",
+    "robots.txt": "36939f13e80eba9c637129629d80d5ee93180a42e8cb1059b91e027c6058a2ee",
+    "44be05e1af7804eb87e38b2203c56d5b.txt": "368a319472075e1ff7885454eea08500139f32f3f601d9e6a362e32d0a9ec950"
+  },
+  "revision": "175ce12f4ab7bab579c4463768a770bffa4b93bc2d2f34ac6d1ce26857d73680"
+}
